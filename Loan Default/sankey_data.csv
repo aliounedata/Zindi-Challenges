@@ -1,0 +1,113 @@
+source,target,value
+Access Bank,Current,3
+Access Bank,Other,50
+Access Bank,Savings,275
+Diamond Bank,Current,4
+Diamond Bank,Other,52
+Diamond Bank,Savings,159
+EcoBank,Current,1
+EcoBank,Other,18
+EcoBank,Savings,97
+FCMB,Current,2
+FCMB,Other,19
+FCMB,Savings,67
+Fidelity Bank,Current,3
+Fidelity Bank,Other,11
+Fidelity Bank,Savings,60
+First Bank,Current,6
+First Bank,Other,81
+First Bank,Savings,343
+GT Bank,Current,9
+GT Bank,Other,268
+GT Bank,Savings,928
+Heritage Bank,Other,6
+Heritage Bank,Savings,12
+Keystone Bank,Other,3
+Keystone Bank,Savings,11
+Skye Bank,Other,9
+Skye Bank,Savings,66
+Stanbic IBTC,Current,6
+Stanbic IBTC,Other,17
+Stanbic IBTC,Savings,94
+Standard Chartered,Current,1
+Standard Chartered,Other,4
+Standard Chartered,Savings,8
+Sterling Bank,Current,2
+Sterling Bank,Other,4
+Sterling Bank,Savings,36
+UBA,Current,5
+UBA,Other,54
+UBA,Savings,205
+Union Bank,Current,1
+Union Bank,Other,5
+Union Bank,Savings,9
+Unity Bank,Other,1
+Unity Bank,Savings,4
+Wema Bank,Other,1
+Wema Bank,Savings,17
+Zenith Bank,Current,3
+Zenith Bank,Other,48
+Zenith Bank,Savings,173
+Current,Amt: Small,38
+Current,Amt: Medium,8
+Current,Amt: Large,0
+Other,Amt: Small,341
+Other,Amt: Medium,163
+Other,Amt: Large,147
+Savings,Amt: Small,2179
+Savings,Amt: Medium,259
+Savings,Amt: Large,126
+Amt: Small,Due: Small,1048
+Amt: Small,Due: Medium,1510
+Amt: Small,Due: Large,0
+Amt: Medium,Due: Small,0
+Amt: Medium,Due: Medium,280
+Amt: Medium,Due: Large,150
+Amt: Large,Due: Small,0
+Amt: Large,Due: Medium,0
+Amt: Large,Due: Large,273
+Due: Small,Record Time: No,298
+Due: Small,Record Time: Yes,750
+Due: Medium,Record Time: No,493
+Due: Medium,Record Time: Yes,1297
+Due: Large,Record Time: No,91
+Due: Large,Record Time: Yes,332
+Record Time: No,Permanent,617
+Record Time: No,Self-Employed,82
+Record Time: No,Student,34
+Record Time: No,Undisclosed,135
+Record Time: No,Unemployed,14
+Record Time: Yes,Contract,1
+Record Time: Yes,Permanent,1716
+Record Time: Yes,Retired,4
+Record Time: Yes,Self-Employed,194
+Record Time: Yes,Student,77
+Record Time: Yes,Undisclosed,358
+Record Time: Yes,Unemployed,29
+Contract,Youth,0
+Contract,Young_adults,1
+Contract,Adults,0
+Permanent,Youth,0
+Permanent,Young_adults,2027
+Permanent,Adults,306
+Retired,Youth,0
+Retired,Young_adults,2
+Retired,Adults,2
+Self-Employed,Youth,0
+Self-Employed,Young_adults,223
+Self-Employed,Adults,53
+Student,Youth,0
+Student,Young_adults,110
+Student,Adults,1
+Undisclosed,Youth,0
+Undisclosed,Young_adults,404
+Undisclosed,Adults,89
+Unemployed,Youth,0
+Unemployed,Young_adults,40
+Unemployed,Adults,3
+Youth,Bad,0
+Youth,Good,0
+Young_adults,Bad,619
+Young_adults,Good,2188
+Adults,Bad,90
+Adults,Good,364
